@@ -130,7 +130,16 @@ main{
     margin-bottom: 1rem;
 }
 
-
+footer{
+    background-color: #0a241b;
+    color: #dad9bd;
+    text-align: center;
+    padding: 1rem;
+    min-height: 15vh;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
 
 
 @media only screen and (max-width: 600px){
